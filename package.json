@@ -1,12 +1,12 @@
 {
-  "name": "my-wisp-server",
+  "name": "wisp_server",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "@mercuryworkshop/wisp-js": "^1.0.1",
+    "@mercuryworkshop/wisp-js": "latest",
     "ws": "^8.16.0"
   }
 }
